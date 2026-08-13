@@ -51,6 +51,14 @@
             "Azure.Storage.Blobs": {
               "target": "Package",
               "version": "[12.29.1, )"
+            },
+            "Azure.Storage.Files.Shares": {
+              "target": "Package",
+              "version": "[12.27.1, )"
+            },
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.27.1, )"
             }
           },
           "imports": [

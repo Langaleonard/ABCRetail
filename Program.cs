@@ -7,6 +7,7 @@ builder.Services.AddControllersWithViews();
 // Azure services
 builder.Services.AddSingleton<TableStorageService>();
 builder.Services.AddSingleton<BlobStorageService>();
+builder.Services.AddSingleton<QueueStorageService>();
 
 var app = builder.Build();
 

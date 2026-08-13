@@ -9,7 +9,9 @@
       "ABCRetail/1.0.0": {
         "dependencies": {
           "Azure.Data.Tables": "12.11.0",
-          "Azure.Storage.Blobs": "12.29.1"
+          "Azure.Storage.Blobs": "12.29.1",
+          "Azure.Storage.Files.Shares": "12.27.1",
+          "Azure.Storage.Queues": "12.27.1"
         },
         "runtime": {
           "ABCRetail.dll": {}
@@ -62,6 +64,30 @@
           "lib/net10.0/Azure.Storage.Common.dll": {
             "assemblyVersion": "12.28.0.0",
             "fileVersion": "12.2800.26.30406"
+          }
+        }
+      },
+      "Azure.Storage.Files.Shares/12.27.1": {
+        "dependencies": {
+          "Azure.Core": "1.55.0",
+          "Azure.Storage.Common": "12.28.0"
+        },
+        "runtime": {
+          "lib/net10.0/Azure.Storage.Files.Shares.dll": {
+            "assemblyVersion": "12.27.1.0",
+            "fileVersion": "12.2700.126.32304"
+          }
+        }
+      },
+      "Azure.Storage.Queues/12.27.1": {
+        "dependencies": {
+          "Azure.Core": "1.55.0",
+          "Azure.Storage.Common": "12.28.0"
+        },
+        "runtime": {
+          "lib/net10.0/Azure.Storage.Queues.dll": {
+            "assemblyVersion": "12.27.1.0",
+            "fileVersion": "12.2700.126.32304"
           }
         }
       },
@@ -182,6 +208,20 @@
       "sha512": "sha512-5l8YhNrks38zKLGFW2BBFLwieyamH/xauABSASsdpZv79G0f+n2n22IjkRmUqCmALSupkwRHh2LOhbW3yj5Qgw==",
       "path": "azure.storage.common/12.28.0",
       "hashPath": "azure.storage.common.12.28.0.nupkg.sha512"
+    },
+    "Azure.Storage.Files.Shares/12.27.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JMcZ8i0JbL0gJI7OpLt/RprxmcblH/3zxndTv8onUEV7slQMFg0M3f0KVNLwILEcCUI2qZZS6s9TbHpr4rZWEQ==",
+      "path": "azure.storage.files.shares/12.27.1",
+      "hashPath": "azure.storage.files.shares.12.27.1.nupkg.sha512"
+    },
+    "Azure.Storage.Queues/12.27.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uQgZ9bzwVJ8bqsWywzwkRt1lfusYPXJAPSb9yVlTsSmZtH+bnDb/RfQuHiuUmk3nlQbCOUGFdD0cRXn8uMiOHg==",
+      "path": "azure.storage.queues/12.27.1",
+      "hashPath": "azure.storage.queues.12.27.1.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/10.0.3": {
       "type": "package",

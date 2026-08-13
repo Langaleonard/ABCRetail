@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z5Cevo5T03Q=",
+  "dgSpecHash": "Ws9zSOvlj4g=",
   "success": true,
   "projectFilePath": "/Users/leonardlanga/Documents/RoseHub/ABCRetail/ABCRetail.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "/Users/leonardlanga/.nuget/packages/azure.data.tables/12.11.0/azure.data.tables.12.11.0.nupkg.sha512",
     "/Users/leonardlanga/.nuget/packages/azure.storage.blobs/12.29.1/azure.storage.blobs.12.29.1.nupkg.sha512",
     "/Users/leonardlanga/.nuget/packages/azure.storage.common/12.28.0/azure.storage.common.12.28.0.nupkg.sha512",
+    "/Users/leonardlanga/.nuget/packages/azure.storage.files.shares/12.27.1/azure.storage.files.shares.12.27.1.nupkg.sha512",
+    "/Users/leonardlanga/.nuget/packages/azure.storage.queues/12.27.1/azure.storage.queues.12.27.1.nupkg.sha512",
     "/Users/leonardlanga/.nuget/packages/microsoft.bcl.asyncinterfaces/10.0.3/microsoft.bcl.asyncinterfaces.10.0.3.nupkg.sha512",
     "/Users/leonardlanga/.nuget/packages/microsoft.identity.client/4.83.1/microsoft.identity.client.4.83.1.nupkg.sha512",
     "/Users/leonardlanga/.nuget/packages/microsoft.identity.client.extensions.msal/4.83.1/microsoft.identity.client.extensions.msal.4.83.1.nupkg.sha512",
