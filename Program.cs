@@ -8,6 +8,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddSingleton<TableStorageService>();
 builder.Services.AddSingleton<BlobStorageService>();
 builder.Services.AddSingleton<QueueStorageService>();
+builder.Services.AddSingleton<FileStorageService>();
 
 var app = builder.Build();
 

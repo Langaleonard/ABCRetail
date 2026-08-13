@@ -11,6 +11,8 @@
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Azure.Data.Tables.dll
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Azure.Storage.Blobs.dll
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Azure.Storage.Common.dll
+/Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Azure.Storage.Files.Shares.dll
+/Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Azure.Storage.Queues.dll
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Microsoft.Identity.Client.dll
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
@@ -36,6 +38,7 @@
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/scopedcss/bundle/ABCRetail.styles.css
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/scopedcss/projectbundle/ABCRetail.bundle.scp.css
+/Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/compressed/a9ssqzsuti-{0}-xu5nze4ysb-xu5nze4ysb.gz
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/compressed/jhpwguve2u-{0}-61n19gt1b8-61n19gt1b8.gz
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/compressed/wc5r42rvpo-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/compressed/kascnvd1zk-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -110,6 +113,3 @@
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/ABCRetail.pdb
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/ABCRetail.genruntimeconfig.cache
 /Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/ref/ABCRetail.dll
-/Users/leonardlanga/Documents/RoseHub/ABCRetail/obj/Debug/net10.0/compressed/a9ssqzsuti-{0}-xu5nze4ysb-xu5nze4ysb.gz
-/Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Azure.Storage.Files.Shares.dll
-/Users/leonardlanga/Documents/RoseHub/ABCRetail/bin/Debug/net10.0/Azure.Storage.Queues.dll
